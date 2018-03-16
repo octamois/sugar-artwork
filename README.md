@@ -1,4 +1,4 @@
-Sugar Artwork
+ Sugar Artwork
 =============
 
 Sugar Artwork provides icons, and GTK+ CSS to build activities and
